@@ -17,6 +17,6 @@ For an overview of everything Raw Accel has to offer, please see the [guide](doc
 Development of Raw Accel is ongoing. See "User Interface 2.0" below for work on next release. Bug reports and pull requests are always welcome.
 
 ### User Interface 2.0
-The next release of Raw Accel is planned to have a new User Interface. Work for this is ongoing at https://github.com/RawAccelOfficial/rawaccel/tree/userinterface. Check out the ReadMe in that branch if interested in contributing.
+The next release of Raw Accel is planned to have a new User Interface. Work for this is ongoing . Check out the ReadMe in that branch if interested in contributing.
 
 
