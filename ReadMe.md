@@ -1,4 +1,4 @@
-##DOWNLOAD [Here](https://github.com/GentleGanku1/Raw-Accel/releases/tag/v1.6.1)
+## DOWNLOAD [Here](https://github.com/GentleGanku1/Raw-Accel/releases/tag/v1.6.1)
 
 # Raw Accel
 
